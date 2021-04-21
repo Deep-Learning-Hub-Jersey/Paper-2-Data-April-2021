@@ -7,7 +7,7 @@ The PDF version of the presentation is in the root folder and the various Jupyte
 
 To install the various libraries to run the code, an environment can be created from the environment.yml file in the root directory. Use 'conda env create -f environment.yml' from the command line. The environment will be named 'p2d' and this can then be activated using 'conda activate p2d'.
 
-All code, libraries and software used in the demonstration are open source and free to use under their respectice licenses. These include, but not limited to:
+All code, libraries and software used in the demonstration are open source and free to use under their respective licenses. These include, but not limited to:
 [Tesseract](https://github.com/tesseract-ocr/tesseract)
 [Transformers](https://huggingface.co) (inc BERT, T5, DeBERTa and RoBERTa), [spaCy](https://spacy.io) and [Doccano](https://github.com/doccano/doccano).
 
@@ -15,6 +15,8 @@ Note that the demo notebook no.2 '2 DEMO_BERT legal predict' requires that the B
 
 Also, notebook no.5 '5 F5-P2D-NER-CUAD-v1-Inference' uses a fine-tuned model. This can be recreated using notebook no.4 '4 F3-P2D-NER-CUAD-v1-Fine-Tune-Transformer'. Unfortunately given the size of these models, they can not be pushed and made available on GitHub.
 
-The PDF contracts used in the demonstration are primarily taken from the [Contract Understanding Atticus Dataset (CUAD) with attribution](https://www.atticusprojectai.org).
+The PDF contracts used in the demonstration are primarily taken from the [Contract Understanding Atticus Dataset (CUAD)](https://www.atticusprojectai.org) with attribution accordingly.
+
+The presentation utilises information from various sources of associated research. Attribution can be found accordingly in the presentation.
 
 The authors of this repo make all original code, document annotations and data available under the GNU General Public License v3.0.
