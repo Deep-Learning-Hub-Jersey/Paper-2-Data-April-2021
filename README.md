@@ -7,7 +7,7 @@ The PDF version of the presentation is in the root folder and the various Jupyte
 
 To install the various libraries to run the code, an environment can be created from the environment.yml file in the root directory. Use 'conda env create -f environment.yml' from the command line. The environment will be named 'p2d' and this can then be activated using 'conda activate p2d'.
 
-All code, libraries and software used in the demonstration are open source and free to use. These include, but not limited to:
+All code, libraries and software used in the demonstration are open source and free to use under their respectice licenses. These include, but not limited to:
 [Tesseract](https://github.com/tesseract-ocr/tesseract)
 [Transformers](https://huggingface.co) (inc BERT, T5, DeBERTa and RoBERTa), [spaCy](https://spacy.io) and [Doccano](https://github.com/doccano/doccano).
 
