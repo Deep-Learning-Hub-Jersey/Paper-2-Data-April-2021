@@ -1,2 +1,8 @@
 
 .DS_Store
+
+code/p2d-NER-Fine-Tune-Transformer-distilbert-base-uncased/
+
+code/temp_model_output_dir/checkpoint-18/
+
+code/wandb/
